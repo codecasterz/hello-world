@@ -17,6 +17,6 @@ Creating a new Branch:
 >> Search the name of new branch to be created....select Create <name of new branch>
 >> Make required changes
 
-3.  Commit the changes to your branch
+3.  Commit the changes to your branch.
 
-4.  
+4.  Create a Pull Request.
